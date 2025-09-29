@@ -18,4 +18,3 @@ Welcome to my GitHub Page!
 ## Cool Sites
 - [Boise State Football](https://broncosports.com/sports/football)  
 - [YouTube](https://www.youtube.com/)  
-- https://www.nfl.com/
